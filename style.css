@@ -43,9 +43,9 @@ section .box.box2
 }
 @keyframes newyear
 {
-    0%,35%{transform:translateY(-70%);}
-    35%,70%{transform:translateY(70%);}
-    70%,100%{transform:translateY(-70%);}
+    0%,35%{transform:translateY(-50%);}
+    35%,70%{transform:translateY(50%);}
+    70%,100%{transform:translateY(-50%);}
 }
 .box h2 span:nth-of-type(odd)
 {
