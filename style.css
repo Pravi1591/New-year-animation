@@ -24,7 +24,7 @@ section .box{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
 }
 section .box.box1 h2
